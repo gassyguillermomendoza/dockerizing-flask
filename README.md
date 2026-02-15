@@ -16,3 +16,6 @@ Then open your browser at:
 ```
 http://localhost:500
 ```
+## Screenshot
+
+![Flask app screenshot](images/screenshot.png)
