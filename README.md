@@ -14,7 +14,7 @@ $ docker run -p 4000:5000 flask-docker
 ```
 Then open your browser at:
 ```
-http://localhost:500
+http://localhost:8000
 ```
 ## Screenshot
 
